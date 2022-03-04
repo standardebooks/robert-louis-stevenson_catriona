@@ -6,13 +6,13 @@
 }
 
 #chapter-15 blockquote header{
+	break-after: avoid;
+	break-inside: avoid;
 	font-variant: small-caps;
 	hyphens: none;
 	-epub-hyphens: none;
-	break-after: avoid;
-	break-inside: avoid;
-	text-align: center;
 	margin: 1em 0;
+	text-align: center;
 }
 
 [epub|type~="z3998:letter"] header{
