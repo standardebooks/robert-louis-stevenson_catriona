@@ -48,7 +48,7 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The sequel to &lt;i&gt;Kidnapped&lt;/i&gt;, continuing the story of David Balfor.</dc:description>
+		<dc:description id="description">The sequel to<i>Kidnapped</i>, continuing the story of David Balfor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">&lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Lewis Stevenson&lt;/a&gt; continues the story of David Balfour, starting directly where &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped"&gt;Kidnapped&lt;/a&gt;&lt;/i&gt; left off. It is much more of a comedy of manners, politics, and romance than a simple action-adventure story, but it still has several of Stevenson’s trademark captures, imprisonments, and daring escapes. The title character David Balfour attempts to navigate, to his own peril, his apparent role in the Appin murder, the subsequent trial of James of the Glens, life among high society, and the machinations of James Macgregor Drummond, the father of David’s great love, Catronia.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14133</dc:source>
