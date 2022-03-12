@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/robert-louis-stevenson/catriona</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-03-12T14:45:55Z</dc:date>
+		<meta property="dcterms:modified">2022-03-12T14:45:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,7 +47,7 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">The sequel to Kidnapped, continuing the story of David Balfor.</dc:description>
+		<dc:description id="description">After coming into his fortune and evading his uncle's schemes, young gentleman David Balfour continues his adventures in 18th century Scotland, helping a politically unwelcome friend escape into France, avoiding the hangman himself, finding his place as a gentleman in Edinburgh society, and falling in love with the daughter of a notorious Macgregor clansman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Lewis Stevenson&lt;/a&gt; continues the story of David Balfour, starting directly where &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson/kidnapped"&gt;Kidnapped&lt;/a&gt;&lt;/i&gt; left off. Compared to &lt;i&gt;Kidnapped&lt;/i&gt;, &lt;i&gt;Catriona&lt;/i&gt; is much more of a comedy of manners, politics, and romance than a simple action-adventure story, but it still has several of Stevenson’s trademark escapades, imprisonments, and daring escapes.&lt;/p&gt;
 			&lt;p&gt;The title character David Balfour attempts to navigate, to his own peril, his apparent role in the Appin murder, the subsequent trial of James of the Glens, life among high society, and the machinations of James Macgregor Drummond, the father of David’s great love, Catronia.&lt;/p&gt;
@@ -55,8 +55,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14133</dc:source>
 		<dc:source>https://archive.org/details/davidbalfourase02stevgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">102045</meta>
+		<meta property="se:reading-ease.flesch">77.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Catriona_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_catriona</meta>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
