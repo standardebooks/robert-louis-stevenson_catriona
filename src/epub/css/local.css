@@ -25,11 +25,12 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
+#dedication header + p + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
 
+#dedication header + p,
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
