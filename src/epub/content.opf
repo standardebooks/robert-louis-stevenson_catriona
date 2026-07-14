@@ -35,7 +35,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<meta property="file-as" refines="#subtitle">Being Memoirs of the Further Adventures of David Balfour at Home and Abroad</meta>
 		<dc:title id="fulltitle">Catriona: Being Memoirs of the Further Adventures of David Balfour at Home and Abroad</dc:title>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<meta property="file-as" refines="#fulltitle">Catriona: Being Memoirs of His Adventures at Home and Abroad</meta>
 		<dc:title id="title-alternate">David Balfour</dc:title>
 		<meta property="title-type" refines="#title-alternate">alternate</meta>
