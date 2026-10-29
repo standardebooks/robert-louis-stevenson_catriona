@@ -65,13 +65,14 @@
 		<link href="https://github.com/standardebooks/robert-louis-stevenson_catriona" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
 		<meta property="file-as" refines="#author">Stevenson, Robert Louis</meta>
+		<meta property="schema:alternateName" refines="#author">Robert Louis Balfour Stevenson</meta>
 		<link href="https://en.wikipedia.org/wiki/Robert_Louis_Stevenson" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n78088964.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">N. C. Wyeth</dc:contributor>
-		<meta property="file-as" refines="#artist">Wyeth, Newell Convers</meta>
+		<meta property="file-as" refines="#artist">Wyeth, N. C.</meta>
 		<meta property="schema:alternateName" refines="#artist">Newell Convers Wyeth</meta>
 		<link href="https://en.wikipedia.org/wiki/N._C._Wyeth" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79054878.html" refines="#artist" rel="schema:sameAs"/>
